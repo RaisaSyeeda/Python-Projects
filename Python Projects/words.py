@@ -1,0 +1,1 @@
+words = ['apple', 'baby', 'cpp', 'cat', 'dom','emotion', 'fear', 'gal', 'home', 'image', 'joke', 'java', 'kite','love','moon','no','on','pure','python','quirky','ray','sub','tear','uterus','volatile','work','wolf','xoxo','yolo','zest']
